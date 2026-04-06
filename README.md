@@ -97,6 +97,30 @@ This project demonstrates how to:
 }
 ```
 ---
+## Failure Example (Model Limitation)
+
+Example of weaker model output:
+
+```json
+{
+  "score": 95,
+  "summary": "Perfect fit for the role",
+  "good_fit": ["General experience"],
+  "risks": []
+}
+```
+
+### Issue:
+- Overly generic reasoning
+- No specific alignment with job requirements
+- Missing risk detection
+
+### Correction:
+Adjusted prompt to enforce:
+- specific evidence-based reasoning
+- mandatory risk identification
+- structured evaluation criteria
+---
 
 ## Evaluation Criteria
 
