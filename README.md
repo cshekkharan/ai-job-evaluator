@@ -41,16 +41,6 @@ Input (Job + Candidate Data)
   "company": "Amazon",
   "description": "Leading cloud and AI transformation programs"
 }
-
----
-
-## Example Input
-```json
-{
-  "title": "Senior Program Manager",
-  "company": "Amazon",
-  "description": "Leading cloud and AI transformation programs"
-}
 ```
 
 ---
