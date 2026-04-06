@@ -41,7 +41,17 @@ Input (Job + Candidate Data)
   "company": "Amazon",
   "description": "Leading cloud and AI transformation programs"
 }
-```` id="3y9gq8"
+
+---
+
+## Example Input
+```json
+{
+  "title": "Senior Program Manager",
+  "company": "Amazon",
+  "description": "Leading cloud and AI transformation programs"
+}
+```
 
 ---
 
@@ -59,3 +69,4 @@ Input (Job + Candidate Data)
     "Adaptation to Amazon culture"
   ]
 }
+```
