@@ -41,11 +41,15 @@ Input (Job + Candidate Data)
   "description": "Leading cloud and AI transformation programs"
 }
 
----
-## Example Input
-```json
 {
-  "title": "Senior Program Manager",
-  "company": "Amazon",
-  "description": "Leading cloud and AI transformation programs"
+  "score": 85,
+  "summary": "Strong alignment with cloud transformation and enterprise delivery",
+  "good_fit": [
+    "Experience with large-scale programs",
+    "Agile and PMO background"
+  ],
+  "risks": [
+    "Limited direct AWS service depth",
+    "Adaptation to Amazon culture"
+  ]
 }
