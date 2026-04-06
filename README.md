@@ -33,6 +33,7 @@ Input (Job + Candidate Data)
 → Logging / Storage (Google Sheets)
 
 ---
+
 ## Example Input
 ```json
 {
@@ -41,6 +42,10 @@ Input (Job + Candidate Data)
   "description": "Leading cloud and AI transformation programs"
 }
 
+---
+
+## Example Output
+```json
 {
   "score": 85,
   "summary": "Strong alignment with cloud transformation and enterprise delivery",
