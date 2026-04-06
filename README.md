@@ -96,3 +96,39 @@ This project demonstrates how to:
   ]
 }
 ```
+---
+
+## Evaluation Criteria
+
+The model evaluates candidate-job fit using the following criteria:
+
+- **Experience Match (0–40 pts)**  
+  Alignment with required responsibilities  
+
+- **Skill Relevance (0–30 pts)**  
+  Match between candidate skills and job requirements  
+
+- **Domain Fit (0–20 pts)**  
+  Industry/domain experience relevance  
+
+- **Risk Factors (-10 to 0 pts)**  
+  Missing skills, ambiguity, or gaps  
+
+---
+
+## Example Evaluation Reasoning
+
+Score: 85
+
+- Strong enterprise program delivery experience (+35)
+- Relevant Agile and PMO background (+25)
+- Partial cloud exposure (+15)
+- Limited AWS depth (-5)
+
+---
+
+## Limitations
+
+- LLM outputs may vary depending on prompt phrasing  
+- Requires structured input for best results  
+- Does not replace human judgment  
